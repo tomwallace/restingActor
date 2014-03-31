@@ -1,0 +1,18 @@
+# Intellij Idea
+*.iws
+*.iml
+.idea
+out
+
+# Grails
+/logs
+/plugins
+/web-app/plugins
+/web-app/WEB-INF/classes
+stacktrace.log
+target
+.settings
+.project
+.classpath
+/wrapper
+
